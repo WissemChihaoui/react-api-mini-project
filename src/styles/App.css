@@ -1,0 +1,16 @@
+.app {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .crypto-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .crypto-chart {
+    margin-top: 50px;
+  }
+  
